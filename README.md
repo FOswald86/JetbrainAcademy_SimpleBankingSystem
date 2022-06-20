@@ -7,6 +7,6 @@ safe logging because checking Luhn, exists, cardnumber pin match
 adding sending deposits  
 deleting Accounts  
 
-<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />  
 
 https://hyperskill.org/projects/93  
